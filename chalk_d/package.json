@@ -1,12 +1,13 @@
 {
-  "name": "chalk",
+  "name": "chalk_d",
   "version": "1.0.0",
   "main": "index.js",
-  "script": {
+  "scripts": {
     "start": "node index.js"
   },
   "license": "MIT",
   "dependencies": {
-    "chalk": "^2.4.2"
+    "chalk": "^2.4.2",
+    "chalk-animation": "^1.6.0"
   }
 }

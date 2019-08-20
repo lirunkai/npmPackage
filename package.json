@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "workspaces": ["chalk", "log4js"],
-  "private": true
+  "private": true,
+  "workspaces": [
+    "chalk_d",
+    "log4js_d"
+  ],
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "chalk-animation": "^1.6.0",
+    "log4js": "^5.0.0"
+  }
 }
