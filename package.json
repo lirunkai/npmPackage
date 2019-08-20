@@ -1,0 +1,8 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": ["chalk", "log4js"],
+  "private": true
+}
