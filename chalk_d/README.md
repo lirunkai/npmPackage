@@ -13,13 +13,21 @@ log(chalk.blue('blue'))
 ```
 
 **black**
+
 **red**
+
 **green**
+
 **yellow**
+
 **blue**
+
 **white**
+
 **redBright**
+
 **greenBright**
+
 **yellowBright**
 
 or 
@@ -49,11 +57,17 @@ log(chalk.underline('underline'))
 ```
 
 **bold**
+
 **underline**
+
 **hidden**
+
 **bold**
+
 **bold**
+
 **bold**
+
 **bold**
 
 

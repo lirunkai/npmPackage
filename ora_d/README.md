@@ -19,8 +19,11 @@ setTimeout(() => {
 ## loaing的类型
 
 **moon**  月亮的动态
+
 **runner** 奔跑的人
+
 **earth**  旋转的地球
+
 **clock** 时钟
 
 [more](https://github.com/sindresorhus/cli-spinners/blob/master/spinners.json)

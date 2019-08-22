@@ -1,13 +1,7 @@
 ## log4js
 
 ### level 分级 从低到高
-trace
-debug
-info
-warn
-error
-fatal
-mark
+trace < debug < info < warn < error < fatal < mark
 
 ### 设置类别
 
