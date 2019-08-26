@@ -9,6 +9,7 @@
     "log4js_d"
   ],
   "dependencies": {
+    "better-scroll": "^1.15.2",
     "chalk": "^2.4.2",
     "chalk-animation": "^1.6.0",
     "dayjs": "^1.8.15",

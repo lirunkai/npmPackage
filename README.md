@@ -2,6 +2,8 @@
 
 ### 研究怎么使用
 
+2019.08.25 [better-scroll](https://github.com/lirunkai/npmPackage/tree/master/better-scroll_d) 更好的移动端滚动
+
 2019.08.24 [fastclick](https://github.com/lirunkai/npmPackage/tree/master/fastclick_d) 移动端解决300ms延迟的包
 
 2019.08.23 [dayjs](https://github.com/lirunkai/npmPackage/tree/master/dayjs_d) 时间处理包
