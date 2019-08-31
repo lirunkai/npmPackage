@@ -2,6 +2,16 @@
 
 ### 研究怎么使用
 
+2019.08.31 [react-thunk]
+
+2019.08.30 [react-redux](https://github.com/lirunkai/npmPackage/tree/master/react-redux-d) redux在react中的实现
+
+2019.08.29 [redux](https://github.com/lirunkai/npmPackage/tree/master/redux-d) redux状态管理库
+
+2019.08.28 [react-transition-group](https://github.com/lirunkai/npmPackage/tree/master/react-transition-group-d) react的动画库
+
+2019.08.27 [react-router](https://github.com/lirunkai/npmPackage/tree/master/react_router_d) react的router
+
 2019.08.26 [react-router-config](https://github.com/lirunkai/npmPackage/tree/master/react_router_config_d) 通过使用config的形式使用react-router
 
 2019.08.25 [better-scroll](https://github.com/lirunkai/npmPackage/tree/master/better-scroll_d) 更好的移动端滚动
