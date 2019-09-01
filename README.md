@@ -2,7 +2,7 @@
 
 ### 研究怎么使用
 
-2019.08.31 [react-thunk]
+2019.08.31 [redux-thunk](https://github.com/lirunkai/npmPackage/tree/master/redux-thunk) redux的中间件,可以在dispatch中使用异步
 
 2019.08.30 [react-redux](https://github.com/lirunkai/npmPackage/tree/master/react-redux-d) redux在react中的实现
 
