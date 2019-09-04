@@ -1,6 +1,10 @@
 ## 每日一个npm包
 
+请个假~~  最近离职了, 找个工作.
+
 ### 研究怎么使用
+
+2019.09.01 [styled-component](https://github.com/lirunkai/npmPackage/tree/master/styled-component) css-in-js在react的实践
 
 2019.08.31 [redux-thunk](https://github.com/lirunkai/npmPackage/tree/master/redux-thunk) redux的中间件,可以在dispatch中使用异步
 
