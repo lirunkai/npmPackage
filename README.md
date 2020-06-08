@@ -1,8 +1,12 @@
 ## 每日一个npm包
 
-请个假~~  最近离职了, 找个工作.
+研究下使用及设计者的思想, 顺带注释下涉及到的知识
 
-### 研究怎么使用
+### 开干
+
+2020.06.08 [latest-version](https://github.com/lirunkai/npmPackage/tree/master/latest-version) 查看npm包的远程版本
+
+---矿工了一段时间---
 
 2019.09.01 [styled-component](https://github.com/lirunkai/npmPackage/tree/master/styled-component) css-in-js在react的实践
 
@@ -30,7 +34,5 @@
 
 2019.08.20 [chalk](https://github.com/lirunkai/npmPackage/tree/master/chalk) 终端修改字体样式
 
-### 研究源码
-
-敬请期待
-
+引用
+[nodejs cool](https://github.com/sindresorhus/awesome-nodejs) awesome nodejs
